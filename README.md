@@ -3,3 +3,6 @@ A frontend clone of the E-commerce website of Amazon. This is created using HTML
 Technologies:
              HTML
              CSS
+
+LIVE link
+https://manish14iitg.github.io/Amazon-clone/
